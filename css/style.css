@@ -6,3 +6,9 @@ color:blueviolet
 text-align: center;
 color:blue
 }
+
+.tablaPrincipal{
+margin: auto;
+margin-top: 200px;
+color: Drgb(98, 97, 97);
+}   
