@@ -23,3 +23,22 @@ color: rgb(88, 88, 89);
 margin-top: 100px;
 
 }
+
+.portafolio {
+    text-align: center;
+}
+
+.portafolio h1 {
+    font-size: 28px;
+    font-weight: normal;
+}
+
+.portafolio h2 {
+    font-size: 28px;
+    font-weight: normal;
+}
+
+.portafolio p {
+    font-size: 28px;
+    margin: 8px;
+}
